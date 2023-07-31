@@ -1,1 +1,1 @@
-# NPCproject-3팀 R game
+# NPCproject-3팀 R gam
