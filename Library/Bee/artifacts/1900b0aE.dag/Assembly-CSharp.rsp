@@ -372,6 +372,10 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/EventManager.cs"
+"Assets/Scripts/Homes.cs"
+"Assets/Scripts/HomesDatabase.cs"
+"Assets/Scripts/HomesManager.cs"
+"Assets/Scripts/SelectedHClick.cs"
 "Assets/Scripts/SoundOptions.cs"
 -langversion:9.0
 
