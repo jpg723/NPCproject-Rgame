@@ -377,6 +377,7 @@
 "Assets/Scripts/HomesManager.cs"
 "Assets/Scripts/SelectedHClick.cs"
 "Assets/Scripts/SoundOptions.cs"
+"Assets/Scripts/tori_start.cs"
 -langversion:9.0
 
 /deterministic
